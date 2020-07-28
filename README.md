@@ -1,4 +1,3 @@
-<img src= "https://github.com/Juel07/Juel07/blob/master/github-banner-BW.png"></img>
 <br>
 <br>
 Welcome to my GitHub! I'm Mihir, a Electronics and Computer Engineer who's transitioning into Data Science. Through self-study, personal projects and participating in Kaggle competitions, I am building a solid foundation in Data Science and Machine Learning. You can find me on twitter <a href = "https://twitter.com/ImMihirT">ImMihirT</a> and LinkedIn <a href = "https://www.linkedin.com/in/mihirthakkar98/">Mihir</a>
