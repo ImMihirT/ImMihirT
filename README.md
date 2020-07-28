@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm Mihir, a Electronics and Computer Engineer who's trans
 
 ### 🌴 Fun facts
 - In my idle time, I learn musical instruments (Harmonium and Flute)
-- I speak three languages: English, Hindi and Gujarati
+- I love to explore the night sky. Will Purchase a good telescope soon :)
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/mihirthakkar98/">Mihir</a>
