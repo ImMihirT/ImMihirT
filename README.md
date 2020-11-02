@@ -3,7 +3,7 @@
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mihir-thakkar-ai&show_icons=true&hide_rank=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515">
 <br>
-Welcome to my GitHub! I'm Mihir, a Electronics and Computer Engineer who's transitioning into Data Science. Through self-study, personal projects and participation in Kaggle competitions, I am building a solid foundation in Data Science and Machine Learning. You can find me on twitter <a href = "https://twitter.com/ImMihirT">ImMihirT</a> and LinkedIn <a href = "https://www.linkedin.com/in/mihirthakkar98/">Mihir</a>
+Welcome to my GitHub! I'm Mihir!
 
 ### ⚡ Relevant achievements
 - Awarded Best Project Award for Software Engineering Course at Vellore Institute of Technology
