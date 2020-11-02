@@ -1,5 +1,5 @@
 <br>
-![](https://komarev.com/ghpvc/?username=mihir-thakkar-ai)
+(https://komarev.com/ghpvc/?username=mihir-thakkar-ai)
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mihir-thakkar-ai&show_icons=true&hide_rank=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515">
 <br>
